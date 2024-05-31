@@ -1,0 +1,12 @@
+C:\Users\CoFFey\source\repos\РМ3\РМ3\bin\Debug\РМ3.exe.config
+C:\Users\CoFFey\source\repos\РМ3\РМ3\bin\Debug\РМ3.exe
+C:\Users\CoFFey\source\repos\РМ3\РМ3\bin\Debug\РМ3.pdb
+C:\Users\CoFFey\source\repos\РМ3\РМ3\obj\Debug\РМ3.csproj.AssemblyReference.cache
+C:\Users\CoFFey\source\repos\РМ3\РМ3\obj\Debug\РМ3.csproj.SuggestedBindingRedirects.cache
+C:\Users\CoFFey\source\repos\РМ3\РМ3\obj\Debug\РМ3.Form1.resources
+C:\Users\CoFFey\source\repos\РМ3\РМ3\obj\Debug\РМ3.Properties.Resources.resources
+C:\Users\CoFFey\source\repos\РМ3\РМ3\obj\Debug\РМ3.csproj.GenerateResource.cache
+C:\Users\CoFFey\source\repos\РМ3\РМ3\obj\Debug\РМ3.csproj.CoreCompileInputs.cache
+C:\Users\CoFFey\source\repos\РМ3\РМ3\obj\Debug\РМ3.exe
+C:\Users\CoFFey\source\repos\РМ3\РМ3\obj\Debug\РМ3.pdb
+C:\Users\CoFFey\source\repos\РМ3\РМ3\obj\Debug\РМ3.Form2.resources
